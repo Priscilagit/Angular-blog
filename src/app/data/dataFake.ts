@@ -1,27 +1,33 @@
 export const dataFake = [
   {
-    "id":"1",
-    "title":"saiu novo filme",
-    "description": "olá",
-    "photoCover":"'https://th.bing.com/th/id/OIP.F00dCf4bXxX0J-qEEf4qIQHaD6?pid=ImgDet&rs=1"
+  "id":"1",
+    "title":"Aumento da Diversidade!!",
+    "description":"O setor de tecnologia da informação e comunicação (TIC) está testemunhando um aumento na diversidade, de acordo com um estudo da Brasscom. Mulheres, negros e profissionais com deficiência estão obtendo mais oportunidades nessa área.Embora as mulheres representem 51% da população brasileira, elas ainda são apenas 39% dos profissionais de TIC. No entanto, em 2022, 32,6 mil mulheres foram contratadas para vagas no setor, o que corresponde a 45% das oportunidades criadas. A remuneração média das mulheres em TIC é menor do que a dos homens, mas ainda é superior à média nacional de seus respectivos gêneros. O estudo também revela um aumento no número de profissionais negros no setor de TIC. Em 2022, 30 mil mulheres e homens negros foram contratados, representando 41% das oportunidades. Os trabalhadores negros de TIC recebem salários 1,8 vezes superiores aos de outros setores e sua presença em cargos de diretoria e gerência aumentou em relação ao ano anterior. Em termos étnicos, os especialistas brancos ainda representam a maioria, com 51,2%, mas as contratações de especialistas brancos tiveram o menor crescimento entre as categorias reveladas. Os profissionais indígenas tiveram o maior aumento, seguidos pelos negros, amarelos e brancos. No setor de TIC, há 9,3 mil profissionais com deficiência, o que é ligeiramente acima da média de outros setores. A natureza das carreiras em TIC favorece a atuação desses especialistas com deficiência, segundo o estudo.Fonte: https://www.itatiaia.com.br/editorias/itatiaia-tecnologia/2023/05/19/diversidade-tem-aumentado-no-segmento-de-tecnologia",
+    "photoCover":"https://hermes.dio.me/articles/cover/1cde087b-c01d-466f-a7cd-efb412a8b2e0.png"
   },
   {
     "id":"2",
-    "title":"saiu novo filme",
-    "description": "olá",
-    "photoCover":"'https://th.bing.com/th/id/OIP.F00dCf4bXxX0J-qEEf4qIQHaD6?pid=ImgDet&rs=1"
+    "title":"Full Stack",
+    "description":"Full Stack é um termo usado para se referir a um desenvolvedor que é bom em fazer tanto a parte do visual e da interação do usuário em um site ou aplicativo (o frontend) quanto a parte de armazenamento e processamento de informações no servidor (o backend). Em outras palavras, ele é um faz-tudo, que consegue cuidar de toda a parte técnica do desenvolvimento de um projeto.Ser um desenvolvedor Full Stack requer conhecimentos em várias áreas diferentes, como linguagens de programação, bancos de dados e servidores, e isso pode ser muito útil para projetos de qualquer tamanho. A habilidade de trabalhar em todas as partes do desenvolvimento de um projeto, desde a interface do usuário até o armazenamento de informações, pode tornar o processo mais eficiente e permitir uma visão mais ampla do projeto como um todo. Ser capaz de entender e trabalhar em todas as áreas de um projeto pode ser uma grande vantagem para o desenvolvedor e para a equipe como um todo.O que é um desenvolvedor full stack?Como sua própria denominação indica, o desenvolvedor full stack é o profissional habilitado para compreender e operar em todas as camadas do desenvolvimento de um projeto, desde a criação de servidores internos até interfaces de comunicação com o usuário final.Leia mais em: fonte https://kenzie.com.br/blog/full-stack-o-que-e/",
+    "photoCover":"https://www.filepicker.io/api/file/Crrtt0LwQ0Cuj5vKbntc"
   },
   {
     "id":"3",
-    "title":"saiu novo filme",
-    "description": "olá",
-    "photoCover":"'https://th.bing.com/th/id/OIP.F00dCf4bXxX0J-qEEf4qIQHaD6?pid=ImgDet&rs=1"
+    "title":"O que se pode esperar do futuro dos desenvolvedores??",
+     "description":"Ao passar dos anos vemos como o uso de inteligências artificiais tem sido mais comum e rotineiro no desenvolvimento de diversos projetos. Principalmente para os setores como a criação de software, que se tornou uma das áreas mais promissoras e fascinantes da tecnologia nas últimas décadas.Com os avanços em aprendizado de máquina e processamento de linguagem natural, a utilização de algoritmos e inteligência artificial para o desenvolvimento de software tem se tornado cada vez mais comum. Entre as diversas aplicações da IA, um chatbot que chama a atenção é o ChatGPT, uma solução baseada na arquitetura GPT (Generative Pré-trained Transformer) da OpenAI, capacitada a realizar tarefas automatizadas e fornecer respostas rápidas e precisas aos utilizadores. O desenvolvimento do ChatGPT representa um avanço significativo no campo do processamento de linguagem natural. No passado, os chatbots eram tipicamente baseados em regras. O que significa serem programados para responder de uma maneira particular a entradas específicas, embora possam ser eficazes em alguns contextos, a sua capacidade em se envolver em conversas fluidas com utilizadores são limitadas. O ChatGPT, por outro lado, consegue traduzir perguntas variadas e pode gerar respostas mais sutis e contextualmente apropriadas. Não exageramos quando falamos que o cenário do desenvolvimento de software está mudando ao usar recursos como o ChatGPT. Partindo desse princípio neste artigo, exploraremos como o ChatGPT vai revolucionar a criação de produtos digitais e como a sua utilização pode ser vantajosa para as empresas que buscam inovar e otimizar os seus processos, atendimento e suporte ao cliente. A inteligência artificial tornou-se uma grande auxiliar em diversos campos tecnológicos. Com a ajuda do ChatGPT, é possível facilitar muito diversos processos de trabalho, tornando-os mais ágeis. A seguir, irei apresentar os 5 principais motivos pelos quais deve-se recorrer à utilização da inteligência artificial para termos uma visão atual desse cenário e como irão implicar no futuro do mercado tecnológico.Leia mais em: fonte https://pt.linkedin.com/pulse/o-que-esperar-para-futuro-do-desenvolvimento-de",
+    "photoCover":"https://tse2.mm.bing.net/th?id=OIP.F_8r-8V6zOtvo5c9dUg1QgHaEK&pid=Api&P=0&h=180"
   },
   {
     "id":"4",
-    "title":"saiu novo filme",
-    "description": "olá",
-    "photoCover":"'https://th.bing.com/th/id/OIP.F00dCf4bXxX0J-qEEf4qIQHaD6?pid=ImgDet&rs=1"
+    "title":"Potência Tech Angular Developer - Powered by iFood",
+    "description": "O Potência Tech powered by iFood voltou com tudo e agora traz um Bootcamp focado em Angular! Com cursos, desafios de projeto, desafios de código e mentorias exclusivas, o Bootcamp Potência Tech Angular Developer - Powered by iFood traz uma experiência completa para você que quer dar um pontapé na carreira tech! As inscrições já estão abertas para pessoas de todo o Brasil, mas voltado e focado em grupos sub-representados e pessoas de baixa renda. Ao final do programa, acontecerá o Minha Carreira Tech, uma oportunidade de conhecer as empresas parceiras e ficar disponível na plataforma de talentos da DIO, além da possibilidade de conquistar prêmios pelo seu desempenho.Fonte: https://www.dio.me/",
+    "photoCover":"https://hermes.dio.me/tracks/a123a707-54de-4a67-88ee-5c129beb14d7.png"
+  },
+  {
+    "id":"5",
+    "title":"8 passos para iniciar sua carreira em TI",
+    "description": "O mercado de trabalho em Tecnologia da Informação (TI) vem se destacando nos últimos anos. Com o uso constante da internet, computadores e celulares, é natural que esse setor se torne cada vez maior e mais importante. A necessidade por profissionais qualificados e atualizados vem aumentando cada dia mais. Muitas empresas não conseguem desenvolver produtos ou dar velocidade a novos projetos porque faltam especialistas para participar do processo de criação. Assim, para quem quer iniciar a carreira em TI, é bom ficar atento às movimentações do mercado e as novas tendências tecnológicas. Veja aqui 8 dicas para te ajudar a ingressar nessa área. Escolha um curso que atenda às suas necessidades. Se dedique aos estudos. Busque um estágio na área. Estude inglês. Tenha curiosidade. Faça networking. Observe o mercado de trabalho. Veja as empresas que têm treinamentos. Leia mais em: fonte https://blog.ampli.com.br/guia-de-profissoes/carreira-em-ti/",
+    "photoCover":"https://tse1.mm.bing.net/th?id=OIP.Zrn-WqcmJRciGUr7NlrzqgHaER&pid=Api&P=0&h=180"
   }
 ]
 

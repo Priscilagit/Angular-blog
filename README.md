@@ -1,3 +1,18 @@
+Olá, aqui você irá encontra um Blog com alguns detalhes sobre TI. Espero que gostem.
+Aqui está a fonte de todo od sites que tirei o conteúdo.
+
+Aqui você encontra sobre o Bootcamp que citei no Blog e entre outros. https://www.dio.me/
+
+Aqui está falando sobre alguns passos para começar na área de Ti.  
+https://blog.ampli.com.br/guia-de-profissoes/carreira-em-ti/
+
+Aqui você encontra alguns informação sobre o que esperar do futuro.
+https://pt.linkedin.com/pulse/o-que-esperar-para-futuro-do-desenvolvimento-de
+
+Aqui você encontra um blog falando sobre Full Stack .https://kenzie.com.br/blog/full-stack-o-que-e/
+
+Aqui um pouco da matéria interressante, que está diponível no artigo da Dio https://www.dio.me/, <== é só você clicar em artigos e vai ver uma parte dessa matéria ou clicar nesse link que vai cair direto na pagína. ==>  https://www.itatiaia.com.br/editorias/itatiaia-tecnologia/2023/05/19/diversidade-tem-aumentado-no-segmento-de-tecnologia
+
 # AngularBlog
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 14.1.2.
