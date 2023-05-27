@@ -1,5 +1,5 @@
 Olá, aqui você irá encontra um Blog com alguns detalhes sobre TI. Espero que gostem.
-Aqui está a fonte de todos os sites que tirei o conteúdo. E estou disponibilizando a url da minha página: http://localhost:4200/
+Aqui está a fonte de todos os sites que tirei o conteúdo. 
 
 Aqui você encontra sobre o Bootcamp que citei no Blog e entre outros. https://www.dio.me/
 
