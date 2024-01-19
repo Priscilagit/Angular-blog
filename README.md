@@ -1,5 +1,5 @@
 Olá, aqui você irá encontra um Blog com alguns detalhes sobre TI. Espero que gostem.
-Aqui está a fonte de todo od sites que tirei o conteúdo.
+Aqui está a fonte de todos os sites que tirei o conteúdo.
 
 Aqui você encontra sobre o Bootcamp que citei no Blog e entre outros. https://www.dio.me/
 
